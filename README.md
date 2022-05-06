@@ -1,2 +1,1 @@
-# UDI8
-# Course Dima
+# Game for guessing numbers
