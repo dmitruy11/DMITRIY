@@ -1,5 +1,7 @@
 import numpy as np
 
+from game3 import random_predict
+
 number = np.random.randint(1, 101) # загадываем число
 count = 1
 
@@ -16,3 +18,4 @@ while True:
     else:
         print(f"Вы угадали число! Это число = {number}, за {count} попыток")
         break 
+    
