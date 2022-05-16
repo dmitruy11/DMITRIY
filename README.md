@@ -5,3 +5,4 @@ From  the  https://skillfactory.ru/data-scientist
 * [проект 0 ИГРА: УГАДАЙ ЧИСЛО](https://github.com/dmitruy11/DMITRIY/blob/master/project_0)
 
 ## Оглавление
+## Ссылки на резюме
