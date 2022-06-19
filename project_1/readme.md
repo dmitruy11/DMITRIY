@@ -30,7 +30,8 @@
 
 Курс валют.
 
-### Ссылка на датасет 
+### Ссылка на датасет   https://drive.google.com/file/d/1OYqxOJGYhrpJpTTHSVTEwy340pB974QI/view?usp=sharing
+
 
 Графики в формате HTML находятся в папке plotly.
 
