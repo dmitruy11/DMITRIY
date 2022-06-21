@@ -30,10 +30,12 @@
 
 Курс валют.
 
-### Ссылка на датасет   https://drive.google.com/file/d/1OYqxOJGYhrpJpTTHSVTEwy340pB974QI/view?usp=sharing
+### Ссылка на датасет   https://drive.google.com/file/d/
+
+1OYqxOJGYhrpJpTTHSVTEwy340pB974QI/view?usp=sharing
 
 
-Графики в формате HTML находятся в папке plotly.
+Графики в формате HTML находятся в папке plotly: https://drive.google.com/drive/folders/14-wAxkEwuHojj_6KzJAaNegkUOklp1zV
 
 Ссылка на копию проекта в : https://github.com/dmitruy11/DMITRIY/tree/master/project_1
 
