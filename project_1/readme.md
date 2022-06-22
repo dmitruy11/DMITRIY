@@ -49,7 +49,7 @@
 
 Результат
 
-[Ноутбук с выполненными заданиями и выводами](https://github.com/dmitruy11/DMITRIY/blob/master/project_1/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20Project%201.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/dmitruy11/DMITRIY/blob/master/project_1/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%20Project%201.ipynb)
 ....
 
 Выводы
